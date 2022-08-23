@@ -1,0 +1,395 @@
+
+@media screen and (max-width: 1200px) {
+/*	.mlproject-left {
+		width: 100%;
+		background-color: rgba(255,255,255,0.5);
+		color: #fff;
+		text-align: center;
+	}
+	.mlproject-right {
+		width: 100%;
+		background-color: rgba(255,255,255,0.5);
+		color: #fff;
+		text-align: center;
+	}*/
+	.info-list {
+		display: none;
+	}
+	.fpgallery .flex-control-thumbs li {
+	    width: 31.59%;
+	    margin: 0 4px;
+	}
+
+	.more-option-item {
+		width: 25%;
+	}
+	.newsletter-left {
+	    width: 100%;
+	    float: none;
+	}
+	.newsletter-right {
+	    width: 100%;
+	    float: none;
+	}
+	.newsletter {
+		text-align: center;
+	}
+	.our-agent-profile .agent-details .our-agent-item .post-thumb {
+	    width: 270px;
+	    height: 225px;
+	    float: none;
+	    margin: auto;
+	}
+}
+
+
+@media screen and (max-width: 991px) {
+	.need-help {
+	    height: 300px;
+	    position: relative;
+	}
+	.need-help-left-part {
+	    width: 100%;
+	    height: 100%;
+	    float: none;
+	    background-image: url(../../assets/images/need-help/01.jpg);
+	    background-position: 90% 0%;
+	    background-repeat: no-repeat;
+	}
+	.need-help-right-part {
+	    width: 100%;
+	    height: 100%;
+	    float: none;
+	    background-color: rgba(0,0,0,0.6);
+	    position: absolute;
+	    padding-top: 70px;
+	    text-align: center;
+	    left: 0;
+	    top: 0;
+	}
+	.need-help-right-part .section-head {
+	    text-align: center;
+	    margin-bottom: 0px;
+	    transform: translateX(-20px);
+	}
+	.contact-info-list.style1 {
+	    transform: translateX(0%); 
+	    margin: auto;
+	}
+
+	.featured-properties .ml-project-item {
+	    overflow: hidden;
+	    padding-left: 0px;
+	    padding-right: 0;
+	    padding-top: 60px;
+	    text-align: center;
+	}
+	.featured-properties .ml-project-info {
+	    width: 100%;
+	    float: none;
+	}
+
+	.more-option-item {
+		width: 33%;
+	}
+
+	.fixed-top-header .logo {
+	    padding: 10px 0;
+	    text-align: center;
+	}
+	section.slider-section {
+	    margin-top: 100px;
+	}
+	header.header-section {
+	    display: none;
+	}
+	.mobile-header {
+		display: block;
+	}
+	.carousel-content address {
+		display: none;
+	}
+	.carousel-content .mlproject-left {
+		background-color: transparent;
+	}
+	.carousel-content .mlproject-right {
+		background-color: transparent;
+		padding: 10px 0;
+	}
+	.carousel-content .mlproject-right:before {
+		display: none;
+	}
+	.carousel-content {
+	    bottom: -100px;
+	    background: rgba(0,0,0,0.6);
+	    -webkit-transition: all 0.3s ease-in-out;
+	    transition: all 0.3s ease-in-out;
+	}
+	.carousel-content .mlproject-left h3 {
+		color: #fff;
+	}
+
+	.slider-section .item.active .carousel-content {
+		bottom: 0;
+	}
+	.property-content-area .small-post-item {
+	    width: 45%;
+	    display: inline-block;
+	    padding-left: 10px;
+	    padding-right: 10px;
+	}
+	.ml-project-item .post-thumb img {
+	    width: 100%;
+	}
+	.swiper-slide .ml-project-item {
+	    padding-right: 0px;
+	    margin-bottom: 60px;
+	}
+	.swiper-slide .small-post {
+	    padding-left: 0px;
+	}
+	.our-agent-item {
+	    margin-bottom: 50px;
+	    max-width: 370px;
+	    margin: auto;
+	    margin-bottom: 50px;
+	}
+	.our-agent-section {
+	    text-align: center;
+	}
+	main.main-content {
+	    margin-bottom: 100px;
+	}
+	/*.sidebar .widget .swiper-slide .post-item .post-thumb img {
+	    width: 100%;
+	}*/
+	.sidebar .widget .widget-wrapper {
+		display: inline-block;
+	}
+	.sidebar .widget {
+		text-align: center;
+	}
+	.sidebar .widget .contact-info-list {
+		text-align: left;
+	}
+	.footer-top .widget {
+	    margin-bottom: 40px;
+	}
+	.properties-gallery {
+		text-align: center;
+	}
+	.properties-gallery .section-head {
+	    margin-bottom: 0px;
+	    display: inline-block;
+	    transform: translateY(0px);
+	    margin-bottom: 30px;
+	}
+	div#properties-gallery-container {
+	    text-align: center;
+	}
+	.properties-galleryFilter {
+		text-align: center;
+	}
+	.our-service-item.service-item2 {
+	    margin-bottom: 60px;
+	}
+	.our-service-item.service-item2 span>i {
+	    width: 55px;
+	    height: 55px;
+	    border-radius: 3px;
+	    background-color: #262828;
+	    margin-bottom: 0px;
+	    float: none;
+	    margin-right: 0px;
+	    font-size: 2.5em;
+	    margin-bottom: 20px;
+	}
+	.our-service-item.service-item2 .content {
+	    display: table;
+	    text-align: center;
+	}
+	.client .testimonial {
+	    margin-right: 0px;
+	    margin-bottom: 40px;
+	}
+	.client .section-head {
+	    text-align: center;
+	}
+	.welcome-section-wrapper {
+	    text-align: center;
+	}
+	.need-help-wrapper .need-img {
+	    width: 270px;
+	    height: 190px;
+	    float: none;
+	    margin: auto;
+	}
+	.need-help-content {
+	    display: table;
+	    margin: auto;
+	    text-align: left;
+	}
+	.need-help {
+	    height: auto;
+	    margin-bottom: 30px;
+	    text-align: center;
+	}
+	.hightlight {
+	    padding-left: 0px;
+	}
+	.highlight-flexslider {
+	    margin-bottom: 50px;
+	}
+	.contact textarea {
+		margin-left: 0;
+	}
+	.welcome-image {
+	    width: 100%;
+	    height: auto;
+	    float: none;
+	    margin-right: 0;
+	    margin-bottom: 60px;
+	}
+	.welcome-image img {
+		width: 100%;
+	}
+
+	.rs-counterup .counter-up .cd-item {
+	    width: 32%;
+	    float: none;
+	    margin-bottom: 35px;
+	    display: inline-block;
+	    text-align: center;
+	}
+	.rs-counterup .counter-up {
+	    overflow: hidden;
+	    margin: 0;
+	    text-align: center;
+	}
+	.header-style1 {
+	    margin-top: 100px;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.more-option-item {
+		width: 50%;
+	}
+	
+	.find-property {
+	    padding-left: 20px;
+	    padding-right: 20px;
+	}
+	.our-agent-item {
+		max-width: 350px;
+		margin: auto;
+		margin-bottom: 50px;
+	}
+/*	.ml-project-item {
+	    max-width: 370px;
+	    margin: auto;
+	    margin-bottom: 50px;
+	}*/
+
+	.ml-project-item .post-thumb img {
+	    width: 100%;
+	}
+	.recent-properties .ml-project-item {
+		text-align: center;
+	}
+	.recent-properties .ml-project-item .ml-project-info-inner {
+	     padding-left: 0px; 
+	}
+	.post-item .post-thumb img {
+	    width: 100%;
+	}
+	.post-item {
+		text-align: center;
+	}
+	.right-reserve {
+	    display: block;
+	    float: none;
+	    text-align: center;
+	}
+	.footer-menu {
+	    margin: 0;
+	    display: inline-block;
+	    float: none;
+	    overflow: hidden;
+	    /* text-align: center; */
+	}
+	.footer-bottom {
+		text-align: center;
+	}
+	.ml-project-item.featured-style2.zoom-hover {
+	    text-align: center;
+	    margin-bottom: 30px;
+	}
+	.about-properties-dimension {
+	    text-align: center;
+	}
+	.contact-agent-btn {
+		text-align: center;
+	}
+	.welcome-content {
+	    text-align: center;
+	    padding: 0 20px;
+	}
+	.entry-footer .tag {
+	    float: none;
+	    margin-bottom: 20px;
+	}
+	.entry-footer .share-social {
+	    float: none;
+	}
+	.tag-share {
+	    text-align: center;
+	}
+	.share-social a {
+	    margin: 2px 0;
+	    display: inline-block;
+	}
+	.relate-post .post-item {
+		margin-bottom: 30px;
+	}
+	.comment-list li .comment-item .profile-image {
+		display: none;
+	}
+	.comment-list li .comment-item .contents {
+		margin-left: 0;
+	}
+	.comment-list li ul {
+		padding-left: 30px;
+	}
+	
+}
+
+
+@media screen and (max-width: 640px) {
+	.property-content-area .small-post-item {
+		width: 100%;
+	}
+}
+
+
+
+@media screen and (max-width: 500px) {
+	.more-option-item {
+		width: 100%;
+	}
+	.newsletter-left h2 {
+		line-height: 1.5em;
+	}
+	.carousel-content .mlproject-right .price,
+	.carousel-content .mlproject-left h3 {
+	    font-size: 1.2em;
+	}
+	.carousel-content .mlproject-right,
+	.carousel-content .mlproject-left {
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+	.rs-counterup .counter-up .cd-item {
+		width: 50%;
+	}
+}
